@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-st",
+  "description": "The most comprehensive collection of stopwords for the southern sotho language.",
+  "keywords": [
+    "southern sotho",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-st",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-st.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
